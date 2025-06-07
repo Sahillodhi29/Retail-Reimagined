@@ -1,0 +1,10 @@
+.vscode/
+venv/
+
+Cleaned Datasets/merged_data.csv
+Cleaned Datasets/cleaned_customer_data.csv
+Cleaned Datasets/cleaned_transaction_data.csv
+
+Given Datasets/QVI_data.csv
+Given Datasets/QVI_purchase_behaviour.csv
+Given Datasets/QVI_transaction_data.xlsx
