@@ -1,4 +1,4 @@
-# 🧠 Customer & Transaction Analysis – Retail Chips Insights
+# 🛍️ Retail Reimagined – Phase 2: Customer & Transaction Analysis – Retail Chips Insights
 
 ## 📌 Overview
 
